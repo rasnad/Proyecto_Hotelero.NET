@@ -1,0 +1,68 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    background-color: #e2eef1;
+    border-radius: 10px;
+    margin-right: 12px; /* Añade espaciado entre los enlaces si deseas */
+}
+
+li a:hover {
+    border-radius: 10px;
+    background-color: #e6e2f1; /* Color de fondo cuando se pasa el mouse encima */
+}
+
+ul.linksCab * {
+    text-decoration: none;
+    color: #232222;
+    border-radius: 10px;
+    padding: 1px 5px;
+    background-color: #d4d4d4; /* Color de fondo deseado para los enlaces */
+}
+
+#createCab, #createTipo, #creaMant {
+    background-color: #edadad;
+}
+
+#createCab, #createTipo, #creaMant:hover {
+    border-radius: 10px;
+    color: white /* Color de fondo cuando se pasa el mouse encima */
+}
+
+.limited-text {
+    background-color: #e59595;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+
+.imagenesCab {
+    width:200px;
+    height:190px;
+}

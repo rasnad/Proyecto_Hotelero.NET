@@ -1,0 +1,204 @@
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\braia\Desktop\basura\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\braia\Desktop\compa\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\braia\Desktop\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\refint\LogicaAccesoDatos.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\LogicaAccesoDatos\obj\Debug\net7.0\ref\LogicaAccesoDatos.dll

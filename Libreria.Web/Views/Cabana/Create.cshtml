@@ -1,0 +1,89 @@
+﻿
+@model Libreria.LogicaNegocio.Entidades.Cabaña
+
+@{
+    ViewData["Title"] = "Create";
+    bool veradero = true;
+    bool falso = false;
+
+}
+
+<h1>Create</h1>
+
+<h4>Cabaña</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4"> 
+        <form asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="TipoId">Tipo</label>
+                <select name="TipoId" id="TipoId" class="form-control" required>
+                    @foreach (var unTipo in ViewBag.MisTipos)
+                    {
+                        <option value="@unTipo.Id">@unTipo.Nombre</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="ConJacuzzi">Con Jacuzzi</label>
+                <select name="ConJacuzzi" id="ConJacuzzi" class="form-control" required>
+
+                    <option value="@veradero">Si</option>
+                    <option value="@falso">No</option>
+
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="habilitada">Habilitada</label>
+                <select name="habilitada" id="habilitada" class="form-control" required>
+
+                    <option value="@veradero">Si</option>
+                    <option value="@falso">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CantPersonas" class="control-label"></label>
+                <input asp-for="CantPersonas" class="form-control" />
+                <span asp-validation-for="CantPersonas" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label for="imagen" class="control-label"></label>
+                <input type="file" name="imagen" class="form-control" />
+                <span asp-validation="imagen" class="text-danger"></span>
+            </div>
+
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p class="limited-text">@ViewBag.Error</p>
+
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,2 @@
+Server name utilizado en la cadena de conexion: (localdb)\mssqllocaldb
+Nombre de la base: ObligatorioP32023

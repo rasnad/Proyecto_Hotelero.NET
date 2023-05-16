@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Libreria.LogicaNegocio.Entidades.Tipo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Tipos disponibles</h2> 
+
+
+<ul class="linksCab">
+    <li id="createTipo"><a id="createTipo" asp-action="Create">Crear nuevo Tipo</a> </li>
+    <li><a asp-action="BuscadorNombreTipo">Buscar por nombre</a> </li>
+</ul>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostoPorHuesped)
+            </th>
+            <th>
+                Editar
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td placeHolder="">
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CostoPorHuesped)
+            </td>
+                <td> 
+                    <form method="post" asp-action="EditarDescripcionCosto" asp-route-id="@item.Id">
+                        <button type="submit" class="btn">Modificar</button>
+                    </form>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

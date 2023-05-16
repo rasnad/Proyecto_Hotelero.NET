@@ -1,0 +1,92 @@
+﻿@using Libreria.LogicaNegocio.Entidades;
+@using Libreria.LogicaNegocio.InterfacesRepositorio;
+@using LogicaAccesoDatos.EF;
+@{
+    ViewData["Title"] = "Mantenimiento Entre Fechas";
+
+    IRepositorioMantenimiento _repoMant = CrearRepositorio();
+
+    static IRepositorioMantenimiento CrearRepositorio()
+    {
+        return new RepositorioMantenimiento();
+    }
+
+    var Mantenimientos = ViewBag.Fechas;
+    
+
+}
+
+
+<h3>Ingrese las fechas que desea consultas</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label for="FechaMantenimiento">Ingrese la primer fecha</label>
+                <input type="date" name="fecha1"  placeholder="Ej: 10/05/2020">
+
+                <label for="FechaMantenimiento">Ingrese la segunda fecha</label>
+                <input type="date" name="fecha2"  placeholder="Ej: 10/05/2021">
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @if (ViewBag.Fechas != null)
+    {
+       
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        <p>IdCabaña </p>
+                    </th>
+                    <th>
+                        <p>FechaMantenimiento </p>
+                    </th>
+                    <th>
+                        <p>Descripcion </p>
+                    </th>
+                    <th>
+                        <p>Costo </p>
+                    </th>
+                    <th>
+                        <p>Trabajador </p>
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Mantenimiento mant in Mantenimientos)
+                {
+                    <tr>
+                        <td>
+                            @mant.IdCabaña
+                        </td>
+                        <td>
+                            @mant.FechaMantenimiento
+                        </td>
+                        <td>
+                            @mant.Descripcion
+                        </td>
+                        <td>
+                            @mant.Costo
+                        </td>
+                        <td>
+                            @mant.Trabajador
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+<div>
+    <a asp-action="Index">Volver</a>
+</div>

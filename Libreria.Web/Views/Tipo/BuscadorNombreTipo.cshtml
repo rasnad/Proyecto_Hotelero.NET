@@ -1,0 +1,106 @@
+﻿@using Libreria.LogicaNegocio.InterfacesRepositorio;
+@using LogicaAccesoDatos.EF;
+
+@{
+    ViewData["Title"] = "BuscadorNombreTipo";
+    var tipo = ViewBag.TipoEncontrado;
+
+    IRepositorioCabana _repoCabana = CrearRepositorio();
+
+    static IRepositorioCabana CrearRepositorio()
+    {
+        return new RepositorioCabana();
+    }
+    string resultado = "";
+    if (tipo!=null)
+    {
+        var cabañas = _repoCabana.SearchCabañaXTipo(tipo.Id);
+        resultado = cabañas.Count == 0 ? "NO" : "SI";
+    }
+}
+
+
+<h3>Ingrese el nombre de tipo que desea buscar</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label for="nombre">Ingrese el nombre del tipo</label>
+                <input type="text" name="nombre" id="nombre" placeholder="Ej: Tipo Abierto">
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p class="limited-text">@ViewBag.MensajeError</p>
+
+<div>
+    @if (tipo != null)
+       
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        <p>Nombre </p>
+                    </th>
+                    <th>
+                        <p>Descripcion 📜</p>
+                    </th>
+                    <th>
+                        <p>Costo por Huespued 💸</p>
+                    </th>
+                    <th>
+                        <p>Asignado a una Cabaña</p>
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                    <tr>
+                        <td>
+                            @tipo.Nombre
+                        </td>
+                        <td>
+                            @tipo.Descripcion
+                        </td>
+                        <td>
+                            @tipo.CostoPorHuesped
+                        </td>
+                        <td>
+                            @resultado
+                        </td>
+                        <td>
+                        @if (@resultado == "SI")
+                        {
+                            <form method="post" asp-action="Delete" asp-route-id="@tipo.Id">
+                                <button disabled type="submit" class="btn btn-danger">Eliminar</button>
+                            </form>
+                        } else
+                        {
+                            <form method="post" asp-action="Delete" asp-route-id="@tipo.Id">
+                                <button type="submit" class="btn btn-danger">Eliminar</button>
+                            </form>
+                        }
+
+                        </td>
+
+
+                    </tr>
+            </tbody>
+        </table>
+    }
+
+</div>
+
+
+
+<div>
+    <a asp-action="Index">Volver</a>
+</div>

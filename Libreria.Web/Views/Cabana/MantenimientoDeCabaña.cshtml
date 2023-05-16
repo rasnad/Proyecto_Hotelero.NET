@@ -1,0 +1,64 @@
+﻿@using Libreria.LogicaNegocio.Entidades;
+@using Libreria.LogicaNegocio.InterfacesRepositorio;
+@using LogicaAccesoDatos.EF;
+@model IEnumerable<Libreria.LogicaNegocio.Entidades.Mantenimiento>
+
+<h2>Mantenimientos de la cabaña @ViewBag.NumHab</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.IdMantenimiento)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IdCabaña)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaMantenimiento)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Costo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Trabajador)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdMantenimiento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdCabaña)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaMantenimiento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Costo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Trabajador)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay mantenimientos registrados para esta cabaña.</p>
+}

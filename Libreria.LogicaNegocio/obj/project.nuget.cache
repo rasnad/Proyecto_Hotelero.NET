@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtydXM4v5wCHwPpQOp/wrLTqOh2ZChbVqF7hP37ig4BMEnFW38bONBMH0fdb7aLH11WmdT3l8J8ju/MQatfKwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\Obligatorio P3\\Obligatorio 10-05 Avances\\Obligatorio\\Libreria.LogicaNegocio\\Cabana.LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

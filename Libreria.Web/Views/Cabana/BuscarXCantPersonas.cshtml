@@ -1,0 +1,119 @@
+﻿@using Libreria.LogicaNegocio.Entidades;
+@using Libreria.LogicaNegocio.InterfacesRepositorio;
+@using LogicaAccesoDatos.EF;
+@model IEnumerable<Libreria.LogicaNegocio.Entidades.Cabaña>
+
+@{
+    ViewData["Title"] = "BuscarXCantPersonas";
+
+    IRepositorioTipo _repoTipo = CrearRepositorio();
+
+
+    static IRepositorioTipo CrearRepositorio()
+    {
+        return new RepositorioTipo();
+    }
+    var mistipos = _repoTipo.FindAll();
+    ViewBag.MisTipos = mistipos;
+    var Cabañas = ViewBag.CabañasEncontradas;
+}
+
+<h3>
+    Indique numero mínimo de capacidad
+</h3>
+<hr /> 
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label for="cantidad">Ingresar cantidad minima de personas</label>
+                <input type="number" name="cantidad" id="cantidad" placeholder="Ej: 3">
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.Mensaje</p>
+<p>@ViewBag.MensajeUtilizado</p>
+<p>
+    <a asp-action="Index">Volver</a>
+</p>
+@if (ViewBag.CabañasEncontradas != null)
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NumeroHabitacion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ConJacuzzi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tipo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tipo.CostoPorHuesped)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Habilitada)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CantPersonas)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Foto)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Cabaña cab in Cabañas)
+            {
+                <tr>
+                    <td>
+                        @cab.NumeroHabitacion
+                    </td>
+                    <td>
+                        @cab.Nombre
+                    </td>
+                    <td>
+                        @cab.Descripcion
+                    </td>
+
+                    <td>
+                        @(cab.ConJacuzzi == true ? "SI" : "NO")
+                    </td>   
+                    <td>
+                        @_repoTipo.FindById(cab.TipoId).Nombre
+                    </td> 
+
+                    <td>
+                        $@_repoTipo.FindById(cab.TipoId).CostoPorHuesped
+                    </td>
+
+                    <td>
+                        @(cab.Habilitada == true ? "SI" : "NO")
+                    </td>
+                    <td style="background-color: #f1d2d2">
+                        @cab.CantPersonas
+                    </td>
+                    <td>
+                        <img class="img-thumbnail" src="~/imagenes/fotos/@cab.Foto" />
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}

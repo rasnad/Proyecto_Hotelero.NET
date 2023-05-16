@@ -1,0 +1,168 @@
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\Libreria\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase01\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana02\Clase02\LibreriaExcepciones_BaseTrabajo\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Ok\P3_EF_GUIA02_CRUD_Solucion\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+D:\1-2023-Marzo-Clases\P3\M3A\Semana03\Repositorios\LibreriaRepositorios-SolucionInicial\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\basura\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 16-04\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\3Programaciopn\ObligatorioP3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+E:\Users\lucas\OneDrive\Escritorio\ORT\Tercer_SemestreProg3_Bas2\P3\OBLIGATORIO\Adelanto 06-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\compa\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\braia\Desktop\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\lucas\Desktop\Obligatorio P3\Obligatorio 10-05 Avances\Obligatorio\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll

@@ -1,0 +1,104 @@
+﻿@using Libreria.LogicaNegocio.Entidades;
+@using Libreria.LogicaNegocio.InterfacesRepositorio;
+@using LogicaAccesoDatos.EF;
+@model IEnumerable<Libreria.LogicaNegocio.Entidades.Cabaña>
+
+@{
+
+
+    ViewData["Title"] = "Index";
+    CabanasContext _db = new CabanasContext();
+
+    IRepositorioTipo _repoTipo = CrearRepositorio();
+
+    static IRepositorioTipo CrearRepositorio()
+    {
+        return new RepositorioTipo();
+    }
+
+}
+ 
+<ul class="linksCab"> 
+    <li id="createCab"><a id="createCab" asp-action="Create">Crear Cabaña</a> </li>
+    <li><a asp-action="BuscarXNombre">Buscar Por nombre</a> </li>
+    <li><a asp-action="BuscarXTipo">Buscar Por Tipo</a> </li>
+    <li><a asp-action="BuscarXCantPersonas">Por Cantidad de Huespedes</a> </li>
+    <li><a asp-action="BuscarHabilitadas">Habilitadas</a> </li>
+    
+</ul>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroHabitacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ConJacuzzi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo.CostoPorHuesped)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Habilitada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantPersonas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {  
+            <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                    @(item.ConJacuzzi == true ? "SI" : "NO")
+            </td>
+                <td>
+                    @_repoTipo.FindById(item.TipoId).Nombre
+                </td>
+                <td>
+                    @_repoTipo.FindById(item.TipoId).CostoPorHuesped $
+                </td>
+            <td>
+                    @(item.Habilitada == true ? "SI" : "NO")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantPersonas)
+            </td>
+            <td>
+                    <img class="imagenesCab" src="~/imagenes/fotos/@item.Foto" />
+            </td>
+             <td>
+                    <a href="@Url.Action("MantenimientoDeCabaña", "Cabana", new { idHab = item.NumeroHabitacion })" class="btn btn-primary">Ver Mantenimientos</a>
+              </td>
+            <td>
+                <a href="@Url.Action("Create", "Mantenimiento")" class="btn btn-primary">Agregar Mant</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
